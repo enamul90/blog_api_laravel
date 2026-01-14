@@ -11,8 +11,6 @@
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# 📖 Project README
-
 ## 🚀 Overview
 This project is a **Laravel REST API** that provides:
 - 🔐 User authentication (register, login, logout, password reset, OTP verification)
